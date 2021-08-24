@@ -46,7 +46,7 @@
 
 ## Installation
 No installation required, to access this application,
-[ Click here ](https://git.heroku.com/arcane-basin-15906.git) 
+[ Click here ](https://arcane-basin-15906.herokuapp.com/) 
 
 ## Technology 
   * HTML
