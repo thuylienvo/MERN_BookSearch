@@ -2,7 +2,7 @@
 
 
 ## Introduction
-   Movie Mixer application was designed with the user in mind. It provides functionality that makes the process of selecting a movie and drink for a night in seamless. Logic built in to the theater and movie page provides a simple dropdown with options for the user and the application will return suggestions based on the user selection. We've created streamlined experience for a user to enjoy a night without having to make the tough decisions on what to watch and/or drink.
+  A Google Books API search engine that allows yours to search, save and delete books. This MERN stack application uses RESTFul API, GraphQL API with Apollo server, MongoDB, along with Node.js and Express.js. The UI has been built out using React. Have a look!
 
   **User Story**  
     AS AN avid reader        
